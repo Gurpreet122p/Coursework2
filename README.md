@@ -7,3 +7,5 @@ Create two 'get' routes: when the path is '/lessons', the server returns a list 
 When the path is '/user', the server returns the information of an user as shown in the module handbook
 Create a Vue app that retrieves the lesson list from the Express server with Fetch. 'XMLHttpRequest' and library such as 'axios.js' are not allowed
 The client code then displays the list of lesson using Vue similar to the screenshot in the module handbook
+
+Node modules are not included
