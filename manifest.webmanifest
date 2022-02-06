@@ -3,7 +3,7 @@
     "short_name": "BookingSystem",
     "description": "Book different activites",
     "icons": [{
-        "src": "assets/icon.png",
+        "src": "https://raw.githubusercontent.com/Gurpreet122p/Coursework2/main/icon.png",
         "sizes": "512x512",
         "type": "image/png"
     }],
